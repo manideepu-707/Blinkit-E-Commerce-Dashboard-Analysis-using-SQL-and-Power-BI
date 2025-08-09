@@ -1,4 +1,4 @@
-![Powerbi Dashboard](images/Screenshot-2025-08-08-194351.png)
+![Powerbi Dashboard](Screenshot 2025-08-08 194351.png)
 
 ![Powerbi Dashboard](Screenshot-2025-08-08-194412.png)
 
