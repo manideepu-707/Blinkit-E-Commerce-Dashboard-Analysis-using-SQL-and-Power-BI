@@ -119,10 +119,11 @@ Based on the analysis:
 4. Refresh the data to see updated insights
 
 ## Contributors
-- [Manideep U](https://github.com/manideepu-707)
+- [Manideepu Vulasi](https://github.com/manideepu-707)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ![Powerbi Dashboard](https://github.com/manideepu-707/Blinkit-E-Commerce-Dashboard-Analysis-using-SQL-and-Power-BI/raw/main/Screenshot-2025-08-08-194351.png)
 
 ![Powerbi Dashboard](Screenshot-2025-08-08-194412.png)
